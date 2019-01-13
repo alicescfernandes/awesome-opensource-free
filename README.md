@@ -18,7 +18,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ Krita - Open-Source
 * ✨ Gimp -  Open-Source
 * ✨ Inkscape - Open-Source
-* ✨Blender - Open-Source
+* ✨ Blender - Open-Source
 
 ### Audio
 * ✨ Audacity -  Open Source
