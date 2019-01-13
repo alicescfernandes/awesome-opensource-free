@@ -42,4 +42,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ Vistual Studio Code - Open Source
 * ✨ Code::Blocks IDE - Open Source
 
+### Others
+* ✨ [Serial Osciloscope](http://x-io.co.uk/serial-oscilloscope/) - Open-Source
+
 *Know some more software, add it to the list!* 
