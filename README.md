@@ -22,6 +22,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 
 ### Audio
 * ✨ Audacity -  Open Source
+* ✨ Ocenaudio - Open Source
 
 ### Productivity
 * ✨ Apache Open Office - Open Source
