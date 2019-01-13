@@ -7,7 +7,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 
 ### Video
 *  Davinci Resolve - Free License
-* Fusion 3 - Free
+* Fusion 9 - Free
 * ✨ Kden Live - Open-Source
 * ✨ Open Shot -  Open-Source
 
