@@ -10,6 +10,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * Fusion 9 - Free
 * ✨ Kden Live - Open-Source
 * ✨ Open Shot -  Open-Source
+* ✨ Open Broadcaster Software - Open-Source
 
 ### Graphics and 3D
 * Gravit Designer - Free (Basic Functionality)
