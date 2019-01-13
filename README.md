@@ -19,6 +19,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ Gimp -  Open-Source
 * ✨ Inkscape - Open-Source
 * ✨ Blender - Open-Source
+* ✨ Karbon - Open-Source
 
 ### Audio
 * ✨ Audacity -  Open Source
