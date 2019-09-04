@@ -8,6 +8,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 ### Video
 * Davinci Resolve - Free License
 * Fusion 9 - Free
+* HitFilm Express - Free
 * ✨ Kden Live - Open-Source
 * ✨ Open Shot -  Open-Source
 * ✨ Open Broadcaster Software - Open-Source
