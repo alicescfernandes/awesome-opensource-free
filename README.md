@@ -16,11 +16,12 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * Gravit Designer - Free (Basic Functionality)
 * Figma - Free (Basic Functionality)
 * Adobe XD - Free
-* ✨ Krita - Open-Source
+* ✨ [Krita](https://krita.org/en/) - Open-Source
 * ✨ Gimp -  Open-Source
 * ✨ Inkscape - Open-Source
 * ✨ Blender - Open-Source
-* ✨ Karbon - Open-Source
+* ✨ [Karbon](https://www.calligra.org/karbon/) - Open-Source
+* ✨ [Alva](https://meetalva.io/) (Prototyping) - Open-Source
 
 ### Audio
 * ✨ Audacity -  Open Source
