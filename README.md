@@ -23,6 +23,8 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ [Karbon](https://www.calligra.org/karbon/) - Open-Source
 * ✨ [Alva](https://meetalva.io/) (Prototyping) - Open-Source
 
+Mention to [Akira](https://github.com/akiraux/Akira),  that is still under development!
+
 ### Audio
 * ✨ Audacity -  Open Source
 * ✨ Ocenaudio - Open Source
