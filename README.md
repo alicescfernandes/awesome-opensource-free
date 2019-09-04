@@ -6,7 +6,7 @@ To add a program onto the list, fork the repo, and add the software to the list 
 __Just because some software is free, that doesn't mean that it has paid features. It means that at least, you get basic functionality under a free license__
 
 ### Video
-*  Davinci Resolve - Free License
+* Davinci Resolve - Free License
 * Fusion 9 - Free
 * ✨ Kden Live - Open-Source
 * ✨ Open Shot -  Open-Source
@@ -29,7 +29,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 ### Productivity
 * ✨ Apache Open Office - Open Source
 * ✨ Libre Office -Open Source
-* ✨ Meld - Open-Source
+
 
 ### Electronics
 * Easy EDA - Free
@@ -41,10 +41,13 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ Eclipse IDE - Open Source
 * ✨ Vistual Studio Code - Open Source
 * ✨ Code::Blocks IDE - Open Source
+* ✨ Mockoon (Mock REST API) - Open Source
+
 
 ### Others
 * ✨ [Serial Osciloscope](http://x-io.co.uk/serial-oscilloscope/) - Open-Source
 * ✨ MITMProxy - Open-Source
+* ✨ Meld - Open-Source
 
 
 *Know some more software, add it to the list!* 
