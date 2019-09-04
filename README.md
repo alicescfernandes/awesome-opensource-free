@@ -28,6 +28,8 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 ### Audio
 * ✨ Audacity -  Open Source
 * ✨ Ocenaudio - Open Source
+* ✨ Ardour - Open Source
+
 
 ### Productivity
 * ✨ Apache Open Office - Open Source
