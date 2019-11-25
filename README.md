@@ -43,11 +43,12 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ IDEA (Pop_Os)
 * ✨ KiCad - Open Source
 
-### Programing
+### Programming
 * ✨ Eclipse IDE - Open Source
 * ✨ Vistual Studio Code - Open Source
 * ✨ Code::Blocks IDE - Open Source
 * ✨ Mockoon (Mock REST API) - Open Source
+* ✨ [Postwoman](https://github.com/liyasthomas/postwoman) (Free alternative to Postman)  - Open Source
 
 
 ### Others
