@@ -55,6 +55,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [Serial Osciloscope](http://x-io.co.uk/serial-oscilloscope/) - Open-Source
 * ✨ MITMProxy - Open-Source
 * ✨ Meld - Open-Source
+* ✨ [KeeWeb](https://github.com/keeweb/keeweb) (Password managment software) - Open Source
 
 
 *Know some more software, add it to the list!* 
