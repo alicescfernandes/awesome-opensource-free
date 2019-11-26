@@ -51,7 +51,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [Postwoman](https://github.com/liyasthomas/postwoman) (Free alternative to Postman)  - Open Source
 
 ### Audio
-* ✨(SoundNode)[https://github.com/Soundnode/soundnode-app] - Soundcloud client
+* ✨[SoundNode](https://github.com/Soundnode/soundnode-app) - Soundcloud client
 
 ### Others
 * ✨ [Serial Osciloscope](http://x-io.co.uk/serial-oscilloscope/) - Open-Source
