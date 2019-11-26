@@ -63,7 +63,9 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
 * ✨ [CubicSDR](https://github.com/cjcliffe/CubicSDR)
 * ✨ [ShinySDR](https://github.com/kpreid/shinysdr)
+* [SDR#](https://airspy.com/download/)
 
+_[RTL-SDR](https://www.rtl-sdr.com/big-list-rtl-sdr-supported-software/) provides a more extensive list of SDR software_
 
 ### Communication
 * ✨ [Goofy](https://github.com/danielbuechele/goofy)
