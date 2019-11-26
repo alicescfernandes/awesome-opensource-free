@@ -56,6 +56,18 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ MITMProxy - Open-Source
 * ✨ Meld - Open-Source
 * ✨ [KeeWeb](https://github.com/keeweb/keeweb) (Password managment software) - Open Source
+* ✨ [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client 
 
 
+### SDR Related
+* ✨ [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
+* ✨ [CubicSDR](https://github.com/cjcliffe/CubicSDR)
+* ✨ [ShinySDR](https://github.com/kpreid/shinysdr)
+
+
+### Communication
+* ✨ [Goofy](https://github.com/danielbuechele/goofy)
+
+### Games
+* ✨ [Citybound](https://github.com/citybound/citybound) - 
 *Know some more software, add it to the list!* 
