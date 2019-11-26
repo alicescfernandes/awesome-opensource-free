@@ -39,7 +39,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 
 ### Electronics
 * Easy EDA - Free
-* ✨ Fritzing (this is probably abandonware) - Open Source
+* ✨ [Fritzing](https://github.com/fritzing/fritzing-app) - Open Source
 * ✨ IDEA (Pop_Os)
 * ✨ KiCad - Open Source
 
