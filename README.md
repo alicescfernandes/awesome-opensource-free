@@ -60,7 +60,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [KeeWeb](https://github.com/keeweb/keeweb) (Password managment software) - Open Source
 * ✨ [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client 
 * ✨ [James Proxy](https://github.com/james-proxy/james)
-* ✨ [Typ] (https://github.com/MikielAgutu/typ-site) (Markdown to PDF)
+* ✨ [Typ](https://github.com/MikielAgutu/typ-site) (Markdown to PDF)
 
 ### SDR Related
 * ✨ [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
