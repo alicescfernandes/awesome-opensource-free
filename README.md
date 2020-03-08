@@ -22,7 +22,7 @@ __Just because some software is free, that doesn't mean that it has paid feature
 * ✨ Inkscape - Open-Source
 * ✨ Blender - Open-Source
 * ✨ [Karbon](https://www.calligra.org/karbon/) - Open-Source
-* ✨ [Alva](https://meetalva.io/) (Prototyping) - Open-Source
+* ✨ [Alva](https://github.com/meetalva/alva) (Prototyping) - Open-Source
 
 Mention to [Akira](https://github.com/akiraux/Akira),  that is still under development!
 
@@ -59,7 +59,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ Meld - Open-Source
 * ✨ [KeeWeb](https://github.com/keeweb/keeweb) (Password managment software) - Open Source
 * ✨ [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client 
-* ✨ [James Proxy](https://github.com/james-proxy/james)
+* ✨ [James Proxy](https://github.com/james-proxy/james) This project is now on maintenance
 * [Typ](https://www.typ-set.com/) (Markdown to PDF)
 * ✨ [Google Taks for Mac](https://github.com/AlexVanderbist/google-tasks-for-mac) 
 
