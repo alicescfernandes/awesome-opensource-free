@@ -49,6 +49,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ Code::Blocks IDE - Open Source
 * ✨ Mockoon (Mock REST API) - Open Source
 * ✨ [Postwoman](https://github.com/liyasthomas/postwoman) (Free alternative to Postman)  - Open Source
+* [Dadroid API Studio](https://apistudio.dadroit.com/)
 
 ### Audio
 * ✨[SoundNode](https://github.com/Soundnode/soundnode-app) - Soundcloud client
