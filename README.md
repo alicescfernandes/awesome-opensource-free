@@ -61,6 +61,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [MacPass](https://github.com/MacPass/MacPass) - A native OS X KeePass client 
 * ✨ [James Proxy](https://github.com/james-proxy/james)
 * [Typ](https://www.typ-set.com/) (Markdown to PDF)
+* ✨ [Google Taks for Mac](https://github.com/AlexVanderbist/google-tasks-for-mac) 
 
 ### SDR Related
 * ✨ [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
