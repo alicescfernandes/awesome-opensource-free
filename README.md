@@ -30,11 +30,16 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ Audacity -  Open Source
 * ✨ Ocenaudio - Open Source
 * ✨ Ardour - Open Source
-
+* ✨ [SoundNode](https://github.com/Soundnode/soundnode-app) - Soundcloud client
+* ✨ [VCV Rack](https://vcvrack.com/) - Virtual Eurorack DAW
+* ✨ [LMMS DAW](https://lmms.io/) - A DAW Software
+* [Mutools](http://www.mutools.com/)
+* [T7 DAW](https://www.tracktion.com/products/t7-daw) - Another DAW. Free to download, but requires account
 
 ### Productivity
 * ✨ Apache Open Office - Open Source
 * ✨ Libre Office - Open Source
+* ✨ Only Office (https://www.onlyoffice.com/)
 
 
 ### Electronics
@@ -53,9 +58,6 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [Meld](https://meldmerge.org/) - Open-Source merging tool
 
 
-### Audio
-* ✨[SoundNode](https://github.com/Soundnode/soundnode-app) - Soundcloud client
-
 ### Others
 * ✨ [Serial Osciloscope](http://x-io.co.uk/serial-oscilloscope/) - Open-Source
 * ✨ MITMProxy - Open-Source
@@ -65,6 +67,8 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ [James Proxy](https://github.com/james-proxy/james) This project is now on maintenance
 * [Typ](https://www.typ-set.com/) (Markdown to PDF)
 * ✨ [Google Taks for Mac](https://github.com/AlexVanderbist/google-tasks-for-mac) 
+* ✨ [Bitwarden](bitwarden.com) - Password management tool
+* ✨ [GNU Octave](https://www.gnu.org/)  - Do you know Matlab? This is pretty much the same 
 
 ### SDR Related
 * ✨ [Universal Radio Hacker (URH)](https://github.com/jopohl/urh)
