@@ -50,7 +50,7 @@ Mention to [Akira](https://github.com/akiraux/Akira),  that is still under devel
 * ✨ Mockoon (Mock REST API) - Open Source
 * ✨ [Postwoman](https://github.com/liyasthomas/postwoman) (Free alternative to Postman)  - Open Source
 * [Dadroid API Studio](https://apistudio.dadroit.com/) - Another free alternative to Postman
-* ✨ (Meld)[https://meldmerge.org/] - Open-Source merging tool
+* ✨ [Meld](https://meldmerge.org/) - Open-Source merging tool
 
 
 ### Audio
